@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XOverse</string>
+    <string name="player_x_turn">Player X\'s Turn</string>
+    <string name="player_o_turn">Player O\'s Turn</string>
+    <string name="player_x_wins">🎉 Player X Wins! 🎉</string>
+    <string name="player_o_wins">🎉 Player O Wins! 🎉</string>
+    <string name="game_draw">🤝 It\'s a Draw! 🤝</string>
+    <string name="reset_game">RESET GAME</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="game_over">Game Over</string>
+    <string name="vs_ai_mode">VS AI Mode</string>
+    <string name="two_player_mode">Two Player Mode</string>
+    <string name="ai_thinking">AI is thinking...</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="ai_wins">🤖 AI Wins! 🤖</string>
+    <string name="you_win">🎉 You Win! 🎉</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+</resources>
